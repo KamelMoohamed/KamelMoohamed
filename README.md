@@ -8,7 +8,7 @@
 <br>
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 
-- :University: I am a `Junior` at Faculty of Systems and Bio-medical Engineering, Cairo University
+- University: I am a `Junior` at Faculty of Systems and Bio-medical Engineering, Cairo University
 - 📫 How to reach me **kamel160711@gmail.com**
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view).
 - :nerd_face: Always `learning new things`
