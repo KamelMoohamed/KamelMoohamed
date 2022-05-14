@@ -31,7 +31,7 @@ CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view). -
 <br />
 <br />
 <br />
-## 📩 Connect with me
+<h2>📩 Connect with me</h3>
 <p align="center">
   <a href="mailto:kamel160711@gmail.com" title="Gmail"
     ><img
@@ -47,7 +47,7 @@ CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view). -
   /></a>
 </p>
 
-## 🛠 Languages and Tools
+<h2>🛠 Languages and Tools</h2>
 <br />
 <p align="center">
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
