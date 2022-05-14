@@ -29,7 +29,8 @@ CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view). -
 :nerd_face: Always `learning new things`
 
 <br />
-
+<br />
+<br />
 ## 📩 Connect with me
 <p align="center">
   <a href="mailto:kamel160711@gmail.com" title="Gmail"
