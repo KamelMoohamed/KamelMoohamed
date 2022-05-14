@@ -26,8 +26,8 @@
 Cairo University.
 - 📫 How to reach me **kamel160711@gmail.com** 
 - :thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY
-CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view). -
-:nerd_face: Always `learning new things`
+CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view).
+- :nerd_face: Always `learning new things`
 
 <br />
 <br />
