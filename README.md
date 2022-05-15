@@ -3,8 +3,8 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=manarshahin48&label=Profile%20views&color=0e75b6&style=flat"
-    alt="manarshahin48"
+    src="https://komarev.com/ghpvc/?username=KamelMoohamed&label=Profile%20views&color=0e75b6&style=flat"
+    alt="KamelMoohamed"
   />
   <img
     src="https://badges.pufler.dev/repos/KamelMoohamed"
@@ -12,7 +12,7 @@
   />
   <img
     src="https://img.shields.io/github/followers/KamelMoohamed?label=Followers"
-    alt="manarshahin48"
+    alt="KamelMoohamed"
   />
 </p>
 <br />
