@@ -245,7 +245,7 @@ CV](https://drive.google.com/file/d/1gyj8OrO-bV61i9oPOrjLCvmvaLznl_Qm/view).
     ![Kamel Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamelMoohamed&show_icons=true&theme=tokyonight)
      <img
       alt="KamelMoohamed's Github Stats"
-      src="https://github-readme-stats.vercel.app/api?username=KamelMoohamed&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact"
+      src="https://github-readme-stats.vercel.app/api?username=KamelMoohamed&show_icons=true&theme=tokyonight"
 <!--       src="https://github-readme-stats.vercel.app/api?username=KamelMoohamed&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" -->
       height="230px"
   />
